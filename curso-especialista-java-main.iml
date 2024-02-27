@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02.01. Criando o primeiro programa Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.03. Desafio - correção de erros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.04. Escrevendo comentários no código" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.07. Trabalhando com variáveis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.08. Operadores aritméticos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.09. Desafio - variáveis e operadores aritméticos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.10. Abreviando operadores aritméticos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.11. Operadores de incremento e decremento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.12. Tipos primitivos - boolean, char, byte e short" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.13. Tipos primitivos - int e long" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.14. Tipos primitivos - float e double" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.15. Conversão de tipos primitivos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.16. Desafio - tipos primitivos e conversão" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.17. Promoção aritmética" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.18. Desafio - promoção aritmética" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.19. Trabalhando com String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.20. Usando sequências de escape" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.21. Formatando a saída com printf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.22. Recebendo entrada de dados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.23. Desafio - String, entrada de dados, printf, etc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.01. Operadores de igualdade e de negação (unário)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.02. Operadores de comparação" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.03. Operadores lógicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.04. Desafio - operadores de igualdade e lógicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.05. Curto-circuito de operadores lógicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.06. Precedência de operadores lógicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.07. Estrutura condicional if" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.08. Estruturas condicionais else e else if" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.09. Desafio - calculadora complexa de IMC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.10. Escopos e inicialização de variáveis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.11. Estrutura condicional switch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.12. Cláusula break" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.13. Switch Expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.14. Operador ternário" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.15. Desafio - estrutura switch e operador ternário" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.16. Estrutura de repetição for" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.17. Estrutura de repetição while" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.18. Estrutura de repetição do-while" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.19. Cláusulas break e continue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.20. Desafio - estruturas de repetição" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

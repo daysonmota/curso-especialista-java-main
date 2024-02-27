@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="crm-api" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="module" module-name="crm-api2" />
+    <orderEntry type="module" module-name="31.11. Entendendo o Standard Directory Layout" />
+    <orderEntry type="module" module-name="31.02. Gerando arquivos JAR como bibliotecas" />
+    <orderEntry type="module" module-name="crm-api" />
+    <orderEntry type="module" module-name="crm-api1" />
+  </component>
+</module>

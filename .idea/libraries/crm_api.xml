@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crm-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/31.03. Importando arquivos JAR no projeto/crm-app/lib/crm-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

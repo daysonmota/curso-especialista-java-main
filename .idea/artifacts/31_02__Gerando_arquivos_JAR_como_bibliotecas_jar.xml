@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="31.02. Gerando arquivos JAR como bibliotecas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/31_02__Gerando_arquivos_JAR_como_bibliotecas_jar</output-path>
+    <root id="archive" name="31.02. Gerando arquivos JAR como bibliotecas.jar">
+      <element id="module-output" name="31.02. Gerando arquivos JAR como bibliotecas" />
+    </root>
+  </artifact>
+</component>

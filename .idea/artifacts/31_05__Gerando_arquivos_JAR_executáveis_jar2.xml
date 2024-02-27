@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="31.05. Gerando arquivos JAR executáveis:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/31_05__Gerando_arquivos_JAR_executáveis_jar2</output-path>
+    <root id="archive" name="31.05. Gerando arquivos JAR executáveis.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/31.05. Gerando arquivos JAR executáveis/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="31.05. Gerando arquivos JAR executáveis" />
+      <element id="module-output" name="crm-api2" />
+      <element id="module-output" name="31.11. Entendendo o Standard Directory Layout" />
+      <element id="module-output" name="31.02. Gerando arquivos JAR como bibliotecas" />
+      <element id="module-output" name="crm-api" />
+      <element id="module-output" name="crm-api1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/31.03. Importando arquivos JAR no projeto/crm-app/lib/crm-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/31.05. Gerando arquivos JAR executáveis/crm-app/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/31.05. Gerando arquivos JAR executáveis/crm-app/lib/crm-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/31.04. Usando bibliotecas terceiras/crm-app/lib/crm-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/31.04. Usando bibliotecas terceiras/crm-app/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
